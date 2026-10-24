@@ -1,7 +1,9 @@
 # Himalaya Azad
-### Technical Support Engineer | Industrial IoT, Instrumentation & Measurement
+### Technical Support Engineer | KLED Measurement | Industrial IoT & Instrumentation
 
-I’m documenting practical knowledge across industrial sensing, instrumentation, connectivity, and measurement systems. This portfolio focuses on clear technical notes, reproducible learning labs, and carefully labelled demonstrations.
+I work around industrial measurement, instrumentation, sensor connectivity, and technical support. This personal portfolio documents technical learning, product research, troubleshooting concepts, and reusable engineering references related to industrial IoT.
+
+**Portfolio note:** This is my personal technical portfolio, not an official KLED Measurement corporate account or company publication. Company and product details should be confirmed through official documentation.
 
 - **Industrial IoT:** sensor integration, temperature and relative-humidity monitoring, gateways
 - **Industrial communications:** RS485 fundamentals, Modbus RTU, interface troubleshooting
@@ -38,4 +40,4 @@ Repositories are educational documentation and learning demonstrations unless a 
 - [GitHub repositories](https://github.com/Himazad1917?tab=repositories)
 
 ---
-*Building a practical, evidence-led engineering knowledge base—one documented concept at a time.*
+*Building a practical, evidence-led industrial engineering knowledge base—one documented concept at a time.*
